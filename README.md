@@ -11,7 +11,7 @@ We have three different types of tools attributes,
 
 ## Error handling attributes
 
-### ```{r} tools:ignore```
+```{r} tools:ignore```
 ### ```{r} tools:targetApi```
 ### ```{r} tools:locale```
 
