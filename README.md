@@ -10,14 +10,19 @@ We have three different types of tools attributes,
 3. Resource shrinking attributes
 
 ## Error handling attributes
+Most of the Error handling attributes are used by Lint. 
+
 
 #### tools:ignore
+
 Full list of lint checks are available [here](http://tools.android.com/tips/lint-checks)
 ![alt Before ignoring](/images/toolsIgnoreBefore.png) ![alt After Ignoring](/images/toolsIgnoreAfter.png)
 
 #### tools:targetApi
 #### tools:locale
 
+
+Note: The lint based attributes are only helping us to avoid to the warnings. Handling the targetAPI or anything else is totally upto the developer itself.
 
 ## Design-time view attributes
 #### tools: instead of android:
