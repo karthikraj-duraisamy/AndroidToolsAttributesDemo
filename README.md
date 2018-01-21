@@ -12,9 +12,13 @@ We have three different types of tools attributes,
 ## Error handling attributes
 
 #### tools:ignore
-Full list of lint checks are available [here](http://tools.android.com/tips/lint-checks)
+Full list of lint checks are available [here](http://tools.android.com/tips/lint-checks).
+
+
 Before applying tools:ignore
 ![alt Before ignoring](/images/toolsIgnoreBefore.png) 
+
+
 After applying tools:ignore
 ![alt After Ignoring](/images/toolsIgnoreAfter.png)
 
