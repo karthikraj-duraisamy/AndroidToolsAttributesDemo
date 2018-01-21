@@ -18,14 +18,43 @@ Full list of lint checks are available [here](http://tools.android.com/tips/lint
 
 
 Before applying tools:ignore
+
 ![alt Before ignoring](/images/toolsIgnoreBefore.png) 
 
 
 After applying tools:ignore
+
 ![alt After Ignoring](/images/toolsIgnoreAfter.png)
 
 #### tools:targetApi
+
+Before applying tools:targetApi
+
+![alt Before](/images/targetAPIBefore.png) 
+
+
+After applying tools:targetApi
+
+![alt After](/images/targetAPIAfter.png)
+
+
 #### tools:locale
+
+This attribute helps Android Studio Editor and Lint to stop running the spell checker to find typo in the string resources. 
+
+Before applying tools:locale and english became default locale
+
+![alt After](/images/localeWithEnDefault.png)
+
+Applying tools:locale as english language
+
+![alt After](/images/localeWithEnApplied.png)
+
+
+After applying tools:locale as french language, spell checker stopped looking for typos in english
+
+![alt After](/images/localeWithFrApplied.png)
+
 
 
 ###### Note: The lint based attributes are only helping us to avoid the warnings. Handling the targetAPI or anything else is totally upto the developer.
