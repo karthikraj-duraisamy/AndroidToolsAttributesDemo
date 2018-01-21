@@ -106,6 +106,18 @@ Just to specify the number of items to be rendered in the recycler views.
 ![alt ItemCount for RecyclerView](/images/toolsItemCount.png)
 
 #### tools:layout
+
+To specify for previewing the layout that will render in runtime for fragments.
+
+Before Applying tools:layout
+
+![alt Before](/images/toolsLayoutBefore.png)
+
+After Applying tools:layout
+
+![alt After](/images/toolsLayoutAfter.png)
+
+
 #### tools:listitem / tools:listheader / tools:listfooter
 #### tools:showIn
 #### tools:menu
