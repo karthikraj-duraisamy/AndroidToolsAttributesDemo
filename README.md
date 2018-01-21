@@ -100,6 +100,11 @@ After fixing the warning
 
 
 #### tools:itemCount
+
+Just to specify the number of items to be rendered in the recycler views.
+
+![alt ItemCount for RecyclerView](/images/toolsItemCount.png)
+
 #### tools:layout
 #### tools:listitem / tools:listheader / tools:listfooter
 #### tools:showIn
