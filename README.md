@@ -28,7 +28,7 @@ After applying tools:ignore
 #### tools:locale
 
 
-###### Note: The lint based attributes are only helping us to avoid to the warnings. Handling the targetAPI or anything else is totally upto the developer itself.
+###### Note: The lint based attributes are only helping us to avoid the warnings. Handling the targetAPI or anything else is totally upto the developer.
 
 ## Design-time view attributes
 #### tools: instead of android:
