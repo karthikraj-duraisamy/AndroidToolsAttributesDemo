@@ -10,7 +10,7 @@ We have three different types of tools attributes,
 3. Resource shrinking attributes
 
 ## Error handling attributes
-All of the Error handling attributes are used by Lint. 
+All of the Error handling attributes are used by Lint. Error handling attributes just helps us to avoid the warnings shown by lint and spell checks run by spell checker. 
 
 #### tools:ignore
 
@@ -60,6 +60,11 @@ After applying tools:locale as french language, spell checker stopped looking fo
 ###### Note: The lint based attributes are only helping us to avoid the warnings. Handling the targetAPI or anything else is totally upto the developer.
 
 ## Design-time view attributes
+
+I believe Design-time view attributes are the most valuable Tools attributes, that helps developers to visualize the layout designs before write any code to load the data. This will help to reduce a lot of time for developers. Without this tools attributes, usually we need to hit the run button and verify the layout changes and alignments that we make every time. 
+
+
+
 #### tools: instead of android:
 #### tools:context
 #### tools:itemCount
@@ -72,6 +77,7 @@ After applying tools:locale as french language, spell checker stopped looking fo
 #### "@tools:sample/*" resources
 
 ## Resource shrinking attributes
+
 
 #### tools:shrinkMode
 
