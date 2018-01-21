@@ -11,27 +11,27 @@ We have three different types of tools attributes,
 
 ## Error handling attributes
 
-### tools:ignore
-### tools:targetApi
-### tools:locale
+#### tools:ignore
+#### tools:targetApi
+#### tools:locale
 
 
 ## Design-time view attributes
-### tools: instead of android:
-### tools:context
-### tools:itemCount
-### tools:layout
-### tools:listitem / tools:listheader / tools:listfooter
-### tools:showIn
-### tools:menu
-### tools:minValue / tools:maxValue
-### tools:openDrawer
-### "@tools:sample/*" resources
+#### tools: instead of android:
+#### tools:context
+#### tools:itemCount
+#### tools:layout
+#### tools:listitem / tools:listheader / tools:listfooter
+#### tools:showIn
+#### tools:menu
+#### tools:minValue / tools:maxValue
+#### tools:openDrawer
+#### "@tools:sample/*" resources
 
 ## Resource shrinking attributes
 
-### tools:shrinkMode
+#### tools:shrinkMode
 
-### tools:keep
+#### tools:keep
 
-### tools:discard
+#### tools:discard
