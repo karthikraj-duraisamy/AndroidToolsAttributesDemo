@@ -17,21 +17,21 @@ We have three different types of tools attributes,
 
 
 ## Design-time view attributes
-### ```{r} tools: instead of android:```
-### ```{r} tools:context```
-### ```{r} tools:itemCount```
-### ```{r} tools:layout```
-### ```{r} tools:listitem / tools:listheader / tools:listfooter```
-### ```{r}  tools:showIn```
-### ```{r} tools:menu```
-### ```{r} tools:minValue / tools:maxValue```
-### ```{r} tools:openDrawer```
-### ```{r} "@tools:sample/*" resources```
+### tools: instead of android:
+### tools:context
+### tools:itemCount
+### tools:layout
+### tools:listitem / tools:listheader / tools:listfooter
+### tools:showIn
+### tools:menu
+### tools:minValue / tools:maxValue
+### tools:openDrawer
+### "@tools:sample/*" resources
 
 ## Resource shrinking attributes
 
-### ```{r} tools:shrinkMode```
+### tools:shrinkMode
 
-### ```{r} tools:keep```
+### tools:keep
 
-### ```{r} tools:discard```
+### tools:discard
