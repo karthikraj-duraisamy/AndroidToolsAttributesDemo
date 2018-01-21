@@ -1,5 +1,5 @@
 # AndroidToolsAttributesDemo
-This project repository contains the sample usage of Tools Attributes available under tools namesapace for Android studio. The complete reference of available tools attributes are available in this [link] (https://developer.android.com/studio/write/tool-attributes.html#resource_shrinking_attributes).
+This project repository contains the sample usage of Tools Attributes available under tools namesapace for Android studio. The complete reference of available tools attributes are available in this [link](https://developer.android.com/studio/write/tool-attributes.html#resource_shrinking_attributes).
 
 In this project, I have utilized all the tools attributes available till date. [WIP]
 
