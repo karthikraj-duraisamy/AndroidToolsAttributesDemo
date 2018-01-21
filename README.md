@@ -13,7 +13,10 @@ We have three different types of tools attributes,
 
 #### tools:ignore
 Full list of lint checks are available [here](http://tools.android.com/tips/lint-checks)
-![alt Before ignoring](/images/toolsIgnoreBefore.png) ![alt After Ignoring](/images/toolsIgnoreAfter.png)
+Before applying tools:ignore
+![alt Before ignoring](/images/toolsIgnoreBefore.png) 
+After applying tools:ignore
+![alt After Ignoring](/images/toolsIgnoreAfter.png)
 
 #### tools:targetApi
 #### tools:locale
