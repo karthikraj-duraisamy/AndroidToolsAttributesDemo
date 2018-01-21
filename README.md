@@ -11,9 +11,9 @@ We have three different types of tools attributes,
 
 ## Error handling attributes
 
-```{r} tools:ignore```
-### ```{r} tools:targetApi```
-### ```{r} tools:locale```
+###tools:ignore
+###tools:targetApi
+###tools:locale
 
 
 ## Design-time view attributes
