@@ -14,9 +14,21 @@ Most of the Error handling attributes are used by Lint.
 
 
 #### tools:ignore
+<<<<<<< HEAD
 
 Full list of lint checks are available [here](http://tools.android.com/tips/lint-checks)
 ![alt Before ignoring](/images/toolsIgnoreBefore.png) ![alt After Ignoring](/images/toolsIgnoreAfter.png)
+=======
+Full list of lint checks are available [here](http://tools.android.com/tips/lint-checks).
+
+
+Before applying tools:ignore
+![alt Before ignoring](/images/toolsIgnoreBefore.png) 
+
+
+After applying tools:ignore
+![alt After Ignoring](/images/toolsIgnoreAfter.png)
+>>>>>>> 81298e1ace5f0ecdc6bfa40e7b9b69e1841f98ff
 
 #### tools:targetApi
 #### tools:locale
